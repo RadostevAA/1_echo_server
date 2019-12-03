@@ -1,5 +1,5 @@
 import socket
-#from time import sleep
+from time import sleep
 
 sock = socket.socket()
 sock.setblocking(1)
